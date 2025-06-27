@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Benard M.</h1>
+<h1 align="center">Hi 👋, I'm Matega.</h1>
 <h3 align="center">✨ Frontend Developer | Building Modern Web and Cross-Platform Apps with Flutter & Web Frameworks</h3>
 
 - 🔭 **Currently working on:**  a browser extension inspired by Rofi for quick tab and search engine switching with AI to get faster results.
 - 🌱 **Currently learning:** backend development, API building, integrating AI, and exploring cloud platforms like AWS, Azure, and GCP.
 - 💬 **Ask me about:** Flutter, modern web frameworks (Svelte, Vue, React), Firebase, and cross-platform app development!
 - 📫 **How to reach me:** Drop me a message on [X (formerly Twitter)](https://x.com/matega99) — I’d love to connect!
-- ⚡ **Fun fact:** ⋆✧ I want to go to the moon one day! ⋆☾⋆⁺
+- ⚡ **Fun fact:** ⋆✧ I want to go to the moon ⋆☾⋆⁺
 
 ### 💻 Tech Stack:
 
