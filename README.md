@@ -3,8 +3,8 @@
 
 - 🔭 **Currently working on:**  a browser extension inspired by Rofi for quick tab and search engine switching with AI to get faster results.
 - 🌱 **Currently learning:** backend development, API building, integrating AI, and exploring cloud platforms like AWS, Azure, and GCP.
-- 💬 **Ask me about:** Flutter, modern web frameworks (Svelte, Vue, React), Firebase, and cross-platform app development!
-- 📫 **How to reach me:** Drop me a message on [X (formerly Twitter)](https://x.com/matega99) — I’d love to connect!
+- 💬 **Ask me about:** Building and launching apps faster with Flutter, modern web frameworks (Svelte, Vue, React), and Firebase.
+- 📫 **How to reach me:** Drop me a message on [X (formerly Twitter)](https://x.com/matega99). I’d love to connect!
 - ⚡ **Fun fact:** ⋆✧ I want to go to the moon ⋆☾⋆⁺
 
 ### 💻 Tech Stack:
